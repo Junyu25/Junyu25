@@ -7,7 +7,10 @@ I'm Junyu Chen, a Biohacker form China.
 - 📝[Resume](https://junyu25.github.io/CV/)
 <details>
 <summary>📈 My GitHub Stats</summary>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junyu25)](https://github.com/Junyu25)
+  
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Junyu25&show_icons=true" alt="Junyu25" />
+
+  
 </details>
 
 
